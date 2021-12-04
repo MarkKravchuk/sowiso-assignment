@@ -1,0 +1,22 @@
+.header p {
+    font-weight: 600;
+    color: #594763;
+    margin: 0;
+}
+
+.header ul {
+    display: flex;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+    justify-content: flex-start;
+}
+
+.header li {
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.header #title {
+    margin-left: 50px;
+}
